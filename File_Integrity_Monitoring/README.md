@@ -16,32 +16,31 @@ This project consists of a simple Python script that monitors the integrity of t
 
 <p align="center">
 Execute the script and select the directory: <br/>
-<img src="![Screenshot 2023-08-09 181249](https://github.com/gauthamsb777/gauthamsb777/assets/104288940/4e44b0b1-fffc-4273-ac5c-a2ff11bd5400)
-" height="80%" width="80%" alt="File Integrity Monitoring Tool"/>
+<img src="https://imgur.com/QzJ56Cu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Input y(yes) to start the hashing:  <br/>
-<img src="https://imgur.com/tsJiHcL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input y to start the hashing:  <br/>
+<img src="https://imgur.com/tsJiHcL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Baseline will be generated: <br/>
-<img src="https://imgur.com/QV3KEQ9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QV3KEQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Any change is alerted:  <br/>
-<img src="https://imgur.com/Zp3Y4Vs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Zp3Y4Vs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Directory selection in linux based distro (kali linux):  <br/>
-<img src="https://imgur.com/OBTFDxw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OBTFDxw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Results:  <br/>
-<img src="https://imgur.com/jzgIA9F" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jzgIA9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 ctrl z can be used to smoothly end the hashing:  <br/>
-<img src="https://imgur.com/hkEfXVt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hkEfXVt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
@@ -53,4 +52,5 @@ ctrl z can be used to smoothly end the hashing:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
 

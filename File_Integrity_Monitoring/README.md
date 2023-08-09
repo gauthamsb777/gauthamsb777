@@ -16,7 +16,8 @@ This project consists of a simple Python script that monitors the integrity of t
 
 <p align="center">
 Execute the script and select the directory: <br/>
-<img src="https://imgur.com/QzJ56Cu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Screenshot 2023-08-09 181249](https://github.com/gauthamsb777/gauthamsb777/assets/104288940/4e44b0b1-fffc-4273-ac5c-a2ff11bd5400)
+" height="80%" width="80%" alt="File Integrity Monitoring Tool"/>
 <br />
 <br />
 Input y(yes) to start the hashing:  <br/>

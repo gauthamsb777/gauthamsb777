@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hello, I'm Gautham sb! <br/><a href="https://github.com/gauthamsb777"></a> <a href="https://www.linkedin.com/in/gautham-shridhar-bhandari/">Cybersecurity Professional</a> <a href=></a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b> File Integrity Monitoring (Baseline.txt)</b>
+  - [Monitoring tools using python](https://github.com/gauthamsb777/gauthamsb777/blob/main/File_Integrity_Monitoring.py)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Gautham sb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/gautham-shridhar-bhandari/
 
 <!--
-**gauthamsb777/gauthamsb777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

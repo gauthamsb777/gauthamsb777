@@ -8,8 +8,48 @@ This project consists of a simple Python script that monitors the integrity of t
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python Interpreter/compiler</b> 
+- <b>Python</b>
+- <b>Python Interpreter/compiler</b>
 
 
+<h2>Program walk-through:</h2>
 
+<p align="center">
+Execute the script and select the directory: <br/>
+<img src="https://imgur.com/QzJ56Cu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Input y(yes) to start the hashing:  <br/>
+<img src="https://imgur.com/tsJiHcL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Baseline will be generated: <br/>
+<img src="https://imgur.com/QV3KEQ9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Any change is alerted:  <br/>
+<img src="https://imgur.com/Zp3Y4Vs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Directory selection in linux based distro (kali linux):  <br/>
+<img src="https://imgur.com/OBTFDxw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Results:  <br/>
+<img src="https://imgur.com/jzgIA9F" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ctrl z can be used to smoothly end the hashing:  <br/>
+<img src="https://imgur.com/hkEfXVt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
 

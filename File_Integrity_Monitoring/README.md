@@ -39,7 +39,7 @@ Results:  <br/>
 <img src="https://imgur.com/jzgIA9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ctrl z can be used to smoothly end the hashing:  <br/>
+ctrl z can be used to end the hashing:  <br/>
 <img src="https://imgur.com/hkEfXVt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 

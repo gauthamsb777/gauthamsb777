@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> File Integrity Monitoring (Baseline.txt)</b>
-  - [Monitoring tools using python](https://github.com/gauthamsb777/gauthamsb777/blob/main/File_Integrity_Monitoring.py)
+  - [File Integrity Monitor](File_Integrity_Monitoring)
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> File Integrity Monitoring (Baseline.txt)</b>
-  - [File Integrity Monitor](File_Integrity_Monitoring)
+- <b> File Integrity Monitoring</b>
+  - [Using Python and Baseline.txt](File_Integrity_Monitoring)
 
 
 <h2> 🤳 Connect with me:</h2>

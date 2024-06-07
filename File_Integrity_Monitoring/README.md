@@ -1,8 +1,8 @@
-<h1>File Integrity Monitoring Tool</h1>
+<h1>File Security Tool</h1>
 
  
 <h2>Description</h2>
-This project consists of a simple Python script that monitors the integrity of the file using SHA-512 cryptographic hashing to compute and compare file hashes, establishing an initial baseline.txt that captures file paths and their corresponding hash values. the script's continous loop ensures its usability in realtime directory surveillance and any change detected is flaged through alert in the output.
+This Tool consists of a Python script that monitors the integrity of the file using SHA-512 cryptographic hashing to compute and compare file hashes, establishing an initial baseline.txt that captures file paths and their corresponding hash values. the script's continous loop ensures its usability in realtime directory surveillance and any change detected is flaged through alert in the output.
 <br />
 
 

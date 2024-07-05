@@ -107,7 +107,7 @@ class ChatServer:
                 client_socket.send("Invalid token".encode())
                 return
 
-            # Send security question
+            # security question
             client_socket.send(self.security_question.encode())
 
             # Receive and verify security answer
@@ -121,7 +121,7 @@ class ChatServer:
             room_code = totp.now()
             print(f"New client attempting to connect. Room code: {room_code}")
             
-            # Prompt client to enter room code
+            # Prompt to enter room code
             client_socket.send("Please enter the room code:".encode())
 
             # Wait for client to enter room code
@@ -137,10 +137,10 @@ class ChatServer:
 
             client_socket.send("Authentication successful".encode())
 
-            # Send welcome message
+            
             client_socket.send(WELCOME_ART.encode())
 
-            # Receive client's nickname
+            # client's nickname
             nickname = client_socket.recv(1024).decode()
             with self.lock:
                 self.clients[addr] = (client_socket, client_public_key)
@@ -293,7 +293,7 @@ class ChatClient:
         welcome_art = self.socket.recv(1024).decode()
         print(welcome_art)
 
-        # Send nickname
+        # nickname
         self.nickname = input("Enter your nickname: ")
         self.socket.send(self.nickname.encode())
 
@@ -383,7 +383,7 @@ class ChatClient:
 
 # Usage
 if __name__ == "__main__":
-    choice = input("Enter 's' for server, 'c' for client: ")
+    choice = input("Enter 's' for server(to host), 'c' for client: ")
     if choice.lower() == 's':
         server = ChatServer()
         server.start()

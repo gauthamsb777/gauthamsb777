@@ -66,7 +66,7 @@ Chat room interface: <br/>
 3. Answer the security question.
 4. Enter the room code displayed on the server.
 5. Choose a nickname.
-6. Now we are inside the chat room
+6. User is inside the chatroom
 <br />
   <img src="https://i.imgur.com/YC4zmjF.png" height="80%" width="80%" alt="client side"/>
 <br />

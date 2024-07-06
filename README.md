@@ -7,7 +7,7 @@
 - <b> Wazuh SIEM Implementation</b>
   - [wazuh SIEM setup and configuration](https://cipher-in-progress.github.io/wazuh.html)
 - <b> Secure chat room</b>
-  - [self hosted chatroom using python](Securechatroom)
+  - [self hosted chatroom using python](Secure_chat_room)
 
 
 <h2> 🤳 Connect with me:</h2>

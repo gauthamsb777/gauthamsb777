@@ -9,7 +9,7 @@ This script is a Python-based self-hosted secure chatroom application which uses
 <p align="center">
 Chat room interface: <br/>
 <br />
-  <img src="https://imgur.com/placeholder1.png" height="80%" width="80%" alt="Chatroom interface"/>
+  <img src="https://i.imgur.com/RVIaGwm.png" height="80%" width="80%" alt="Chatroom interface"/>
 <br />
 
 <h2>Features</h2>
@@ -55,6 +55,9 @@ Chat room interface: <br/>
 2. Select whether to use a private or public IP.
 3. Set a security question and answer.
 4. The server will display the invitation token for clients to use.
+<br />
+  <img src="https://i.imgur.com/RVIaGwm.png" height="80%" width="80%" alt="server side"/>
+<br />
 
 <h3>Running a Client</h3>
 
@@ -63,7 +66,13 @@ Chat room interface: <br/>
 3. Answer the security question.
 4. Enter the room code displayed on the server.
 5. Choose a nickname.
-6. Start chatting!
+6. Now we are inside the chat room
+<br />
+  <img src="https://i.imgur.com/RVIaGwm.png" height="80%" width="80%" alt="client side"/>
+<br />
+<br />
+  <img src="https://i.imgur.com/RVIaGwm.png" height="80%" width="80%" alt="chatting interface"/>
+<br />
 
 <h2>Security Considerations</h2>
 

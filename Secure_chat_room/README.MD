@@ -78,22 +78,19 @@ Chat room interface: <br/>
 
 - The application uses strong encryption methods, but as with any security system, it should be regularly updated and audited.
 - Users should be cautious about sharing invitation tokens and answers to security questions.
-- While the chat is end-to-end encrypted, metadata about connections could potentially be observed by network administrators.
+- While the chat is end-to-end encrypted, metadata can be used to find some insights on frequency of message, timestamps etc by network administrators.
 
 <h2>Future Improvements</h2>
 
-- Implement perfect forward secrecy by using ephemeral keys.
-- Add support for file transfers.
-- Develop a graphical user interface.
-- Implement server-side logging for better monitoring and debugging.
+- Using multi-proxy hops to keep the chat sessions more hidden.
+- Adding support for file transfers.
+- Graphical user interface.
+
 
 <h2>Disclaimer</h2>
 
-This application is a demonstration of secure communication principles and should not be used in production environments without thorough security auditing and hardening.
+This script is in its initial phase and implements some of the secure communication principles. But For production or personal use, review the code, enhance security measures, and consider more advanced implementations if needed.
 
-<h2>License</h2>
-
-[MIT License](https://opensource.org/licenses/MIT)
 
 <h2>Contributing</h2>
 

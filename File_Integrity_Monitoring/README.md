@@ -1,4 +1,4 @@
-<h1>File Security Tool</h1>
+<h1>File Integrity Monitor</h1>
 
  
 <h2>Description</h2>

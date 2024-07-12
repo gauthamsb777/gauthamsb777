@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> File Integrity Monitoring</b>
+- <b> File Integrity Monitor</b>
   - [Using Python and Baseline.txt](File_Integrity_Monitoring)
 - <b> Wazuh SIEM Implementation</b>
   - [Wazuh SIEM setup and configuration](https://cipher-in-progress.github.io/wazuh.html)

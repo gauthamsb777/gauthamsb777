@@ -1,7 +1,7 @@
 <h1>Secure Chat Application</h1>
 
 <h2>Description</h2>
-This script is a Python-based self-hosted secure chatroom application which uses client-server model to create a end-to-end encrypted chatroom. It provides a secure communication channel for multiple users, featuring invitation-based access, security questions, and real-time encrypted messaging.
+This script is a Python-based self-hosted secure chatroom application which uses client-server model to create a encrypted chatroom. It provides a secure communication channel for multiple users, featuring invitation-based access, security questions, and real-time encrypted messaging.
 <br />
 
 <h2>Creating a chat room:</h2>

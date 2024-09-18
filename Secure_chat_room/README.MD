@@ -15,7 +15,7 @@ Chat room interface: <br/>
 <h2>Features</h2>
 
 - Client-server architecture
-- End-to-end encryption using RSA
+- Encryption using RSA
 - Secure room access with invitation tokens and security questions
 - Color-coded user messages
 - Public and private IP support for server hosting

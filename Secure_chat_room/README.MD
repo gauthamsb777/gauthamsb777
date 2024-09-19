@@ -1,4 +1,4 @@
-<h1>Secure Communication platform</h1>
+<h1>Secure Communication Tool</h1>
 
 <h2>Description</h2>
 This script is a Python-based self-hosted secure chatroom application which uses client-server model to create a encrypted chatroom. It provides a secure communication channel for multiple users, featuring invitation-based access, security questions, and real-time encrypted messaging.

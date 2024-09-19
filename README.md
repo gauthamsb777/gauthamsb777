@@ -1,12 +1,12 @@
 <h1>Hello, I'm Gautham sb! <br/><a href="https://github.com/gauthamsb777"></a> <a href="https://www.linkedin.com/in/gautham-shridhar-bhandari/">Cybersecurity Professional</a> <a href=></a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Project:</h2>
 
 - <b> File Integrity Monitor</b>
   - [Using Python and Baseline.txt](File_Integrity_Monitoring)
 - <b> Wazuh SIEM Implementation</b>
   - [Wazuh SIEM setup and configuration](https://cipher-in-progress.github.io/wazuh.html)
-- <b> Secure Communication platform</b>
+- <b> Secure Communication Tool</b>
   - [Self hosted chatroom using python](Secure_chat_room)
 
 

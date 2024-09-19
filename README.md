@@ -6,7 +6,7 @@
   - [Using Python and Baseline.txt](File_Integrity_Monitoring)
 - <b> Wazuh SIEM Implementation</b>
   - [Wazuh SIEM setup and configuration](https://cipher-in-progress.github.io/wazuh.html)
-- <b> Secure chat room</b>
+- <b> Secure Communication platform</b>
   - [Self hosted chatroom using python](Secure_chat_room)
 
 

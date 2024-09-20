@@ -1,6 +1,6 @@
 <h1>Hello, I'm Gautham sb! <br/><a href="https://github.com/gauthamsb777"></a> <a href="https://www.linkedin.com/in/gautham-shridhar-bhandari/">Cybersecurity Professional</a> <a href=></a></h1>
 
-<h2>👨‍💻 Cyber Security Project:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> File Integrity Monitor</b>
   - [Using Python and Baseline.txt](File_Integrity_Monitoring)

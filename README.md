@@ -4,12 +4,13 @@
 
 - <b> File Integrity Monitor</b>
   - [Using Python and Baseline.txt](File_Integrity_Monitoring)
-- <b> Wazuh SIEM Implementation</b>
-  - [Wazuh SIEM setup and configuration](https://cipher-in-progress.github.io/wazuh.html)
+- <b> SIEM Implementation with Wazuh</b>
+  - [Wazuh SIEM Implemention](https://beyondthefirewall.github.io/Wazuh.html)
 - <b> Secure Communication Tool</b>
   - [Self hosted chatroom using python](Secure_chat_room)
-
-
+- <b> IDS implementation with Suricata and Splunk
+  - [IDS implementation with suricata and Splunk](https://beyondthefirewall.github.io/SuricataSplunk.html)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Gautham sb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

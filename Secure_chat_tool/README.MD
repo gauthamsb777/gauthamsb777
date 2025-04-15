@@ -66,7 +66,6 @@ Chat room interface: <br/>
 3. Answer the security question.
 4. Enter the room code displayed on the server.
 5. Choose a username.
-6. User is inside the chatroom
 <br />
   <img src="https://i.imgur.com/YC4zmjF.png" height="80%" width="80%" alt="client side"/>
 <br />
@@ -76,9 +75,9 @@ Chat room interface: <br/>
 
 <h2>Security Considerations</h2>
 
-- The application uses strong encryption methods, but as with any security system, it should be regularly updated and audited.
-- Users should be cautious about sharing invitation tokens and answers to security questions.
-- While the chat is end-to-end encrypted, metadata can be used to find some insights on frequency of message, timestamps etc by network administrators.
+- The application uses strong encryption methods, but when using in enterprise network, it should be regularly updated and audited.
+- Hosts and users should be cautious about sharing invitation tokens and only use secure channel to share it.
+- While the chat is end-to-end encrypted, metadata like frequency of message, timestamps etc maybe found through network admin logs
 
 <h2>Future Improvements</h2>
 

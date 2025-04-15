@@ -7,7 +7,7 @@
 - <b> SIEM Implementation with Wazuh</b>
   - [Wazuh SIEM Implemention](https://beyondthefirewall.github.io/Wazuh.html)
 - <b> Secure Communication Tool</b>
-  - [Self hosted chatroom using python](Secure_chat_room)
+  - [Self hosted chatroom using python](Secure_chat_tool)
 - <b> IDS implementation with Suricata and Splunk
   - [IDS implementation with suricata and Splunk](https://beyondthefirewall.github.io/SuricataSplunk.html)
   

@@ -17,9 +17,9 @@ Chat room interface: <br/>
 - Client-server architecture
 - Encryption using RSA
 - Secure room access with invitation tokens and security questions
-- Color-coded user messages
+- Color-coded messages to distinguish users 
 - Public and private IP support for server hosting
-- Nickname support for users
+- custom username support for users
 
 <h2>Technical Details</h2>
 
@@ -65,7 +65,7 @@ Chat room interface: <br/>
 2. Enter the invitation token provided by the server.
 3. Answer the security question.
 4. Enter the room code displayed on the server.
-5. Choose a nickname.
+5. Choose a username.
 6. User is inside the chatroom
 <br />
   <img src="https://i.imgur.com/YC4zmjF.png" height="80%" width="80%" alt="client side"/>
